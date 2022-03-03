@@ -1,0 +1,4 @@
+**Login Details**
+Username: admin
+Password has been Encrypted with md5 encryption.
+Password: admin
